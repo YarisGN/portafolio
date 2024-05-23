@@ -1,9 +1,9 @@
 # Portafolio
-atos MySQL y una API REST segura
+Aplicación web de un portafolio que contiene informacion personal, habilidades, educación, galeria de trabajos...
 
 ## Capturas de Pantalla
 
-![Alt text](image.png)
+![Alt text](portafolio.png)
 
 ## Licencia
 
